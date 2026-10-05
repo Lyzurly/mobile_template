@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://ndeewo8vs1i"]
 
-[ext_resource type="Script" uid="uid://djwghc1islotc" path="res://touch_joystick.gd" id="1_u40xi"]
+[ext_resource type="Script" uid="uid://djwghc1islotc" path="res://Mobile_Input/touch_joystick.gd" id="1_u40xi"]
 
 [sub_resource type="Gradient" id="Gradient_hvquj"]
 offsets = PackedFloat32Array(0.0134529, 1)

@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://c27fcy41rk11c"]
 
-[ext_resource type="Script" uid="uid://cxwdg26dj2fbn" path="res://mobile_inputs.gd" id="1_1qr43"]
-[ext_resource type="PackedScene" uid="uid://ndeewo8vs1i" path="res://touch_joystick.tscn" id="2_1qr43"]
+[ext_resource type="Script" uid="uid://cxwdg26dj2fbn" path="res://Mobile_Input/mobile_inputs.gd" id="1_1qr43"]
+[ext_resource type="PackedScene" uid="uid://ndeewo8vs1i" path="res://Mobile_Input/touch_joystick.tscn" id="2_1qr43"]
 
 [node name="Mobile_Inputs" type="CanvasLayer"]
 script = ExtResource("1_1qr43")
